@@ -1,6 +1,9 @@
 NAME: Hard Clip Distortion
+
 AUTHOR: McLean J. Macionis
+
 DATE: November 14, 2018
+
 BRIEF: Hard Clip Distortion audio plugin designed in JUCE for Ableton Live.
 
 DESCRIPTION: The files in this repository are the source code for an hard clip distortion audio plugin designed in JUCE 5.
